@@ -1,5 +1,12 @@
 div{
     background-color: red;
-    padding: 10px;
+    padding: 20px;
     margin-bottom: 10px;
+    border: 10px solid aqua;
+    border-radius: 10px;
+    text-align: center;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: overline underline dashed;
 }
